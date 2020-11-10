@@ -1,3 +1,9 @@
-Skapa en funktion `isBiggerThan5` som accepterar ett tal som argument.
+Lägg till en knapp på sidan.
 
-Om talet är större än 5 så ska funktionen returnera `true`, annars `false`
+När du trycker på knappen ska:
+* `Goodbye!` loggas i konsolen
+* Texten `Hello!` bytas till `Goodbye!`
+
+Starta servern som visar sidan genom **Go Live**.
+
+*(OBS: Du behöver gå in på `localhost:5500/4` eftersom `index.html` ligger i en undermapp.)*
