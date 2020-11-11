@@ -1,6 +1,6 @@
 
 // 1. Deklarera en variabel a och tilldela den värdet 5. Byt sedan värdet på a till 8
-const a = 5
+let a = 5
 
 a = 8 
 // 2. Deklarera en konstant variabel tilldela den värdet av ditt förnamn
